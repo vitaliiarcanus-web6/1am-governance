@@ -1,0 +1,14 @@
+# 1AM Governance
+
+Public distribution of the approved 1AM Manifesto v1.1 and 1AM CODEX v1.0.
+Repository: https://github.com/vitaliiarcanus-web6/1am-governance
+
+Canonical normative texts:
+- Manifesto: manifesto/1AM_Manifesto_v1.1_CANONICAL.txt
+- CODEX: codex/1AM_CODEX_v1.0_CANONICAL.txt
+
+Machine readable index: governance.json
+CODEX decision model: codex/decision-model.yaml
+Integrity and provenance: manifesto/SHA256.txt, manifesto/provenance.json, codex/SHA256.txt, codex/provenance.json
+
+The canonical TXT files prevail over all summaries and derivatives. Public access does not imply adoption of the CODEX by external AI systems.
