@@ -11,7 +11,11 @@ This repository distributes two approved governance texts. The [Manifesto](manif
 
 Verify downloaded files with `sha256sum manifesto/1AM_Manifesto_v1.1_CANONICAL.txt codex/1AM_CODEX_v1.0_CANONICAL.txt`. Canonical text uses UTF-8, LF, no BOM and exactly one trailing LF. See [governance.json](governance.json) and [llms.txt](llms.txt) for machine readable discovery. The public repository distributes the texts; publication does not imply that external AI systems adopt the CODEX.
 
-The texts are publicly readable. No reuse license is granted here; permissions for copying, adapting or redistributing beyond applicable law require separate authorization. The provenance records document project claims, not independent legal verification.
+## Reuse
+
+The original materials in this repository are available under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE.md). Anyone may copy, share, translate, adapt and use them, including commercially, with appropriate attribution, a link to the license and an indication of changes. Suggested attribution: **1AM Governance — Vitalii Ivanchenkov Ω7Δ**, with a link to this repository. Attribution does not imply endorsement of a derivative or its user.
+
+Reuse does not change the canonical status of the approved TXT files: mark adaptations as adaptations and do not present them as the original canonical versions. Publication does not automatically bind external AI systems to the CODEX. Provenance records reflect project claims, not independent legal verification.
 
 ## Visual references
 
