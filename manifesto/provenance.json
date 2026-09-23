@@ -1,0 +1,13 @@
+{
+  "record_type": "1AM Genesis Record / Manifesto Provenance",
+  "record_id": "#000001",
+  "document_title": "1AM Manifesto",
+  "document_version": "1.1",
+  "canonical_date": "2026-08-30",
+  "canonicalization": "UTF-8; LF line endings; no BOM; exactly one trailing LF",
+  "sha256": "8b7b8b211a01cb362f18938b2a9ab69d625f3065e2a6e576043c8b0447add97a",
+  "authorship_claim": "Declared by VITALII Ω7Δ as originating authorship/provenance claim for the 1AM Manifesto project; AI systems may be cited separately as conversational supporters/reviewers, not as legal co-authors unless independently documented.",
+  "provenance_reference": "Genesis Record #000001; Genesis Block #000001; 1AM Chain project; TON public anchor associated with aquamage.ton",
+  "verification_rule": "Hash the canonical manifesto file exactly as specified and compare to sha256.",
+  "legal_note": "This provenance record is evidentiary/archival metadata and does not by itself create or guarantee statutory copyright, trademark, patent, or contractual rights."
+}
