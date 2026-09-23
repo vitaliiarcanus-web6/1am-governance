@@ -1,0 +1,4 @@
+1AM CODEX v1.0
+Canonical approval date: 2026-09-23
+SHA-256: 11992d956ada332eda008cec1212e1f02d97cb6fe8b6401854322ec8bcc4e6c3
+Canonicalization: UTF-8; LF; no BOM; exactly one trailing LF
