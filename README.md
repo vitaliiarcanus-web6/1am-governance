@@ -12,3 +12,10 @@ This repository distributes two approved governance texts. The [Manifesto](manif
 Verify downloaded files with `sha256sum manifesto/1AM_Manifesto_v1.1_CANONICAL.txt codex/1AM_CODEX_v1.0_CANONICAL.txt`. Canonical text uses UTF-8, LF, no BOM and exactly one trailing LF. See [governance.json](governance.json) and [llms.txt](llms.txt) for machine readable discovery. The public repository distributes the texts; publication does not imply that external AI systems adopt the CODEX.
 
 The texts are publicly readable. No reuse license is granted here; permissions for copying, adapting or redistributing beyond applicable law require separate authorization. The provenance records document project claims, not independent legal verification.
+
+## Visual references
+
+- [1AM Manifesto v1.1 poster](manifesto/visuals/1AM_Manifesto_v1.1_poster.png)
+- [1AM CODEX v1.0 poster](codex/visuals/1AM_CODEX_v1.0_poster.png)
+
+These posters illustrate the documents; the canonical TXT files above are authoritative if wording differs.
