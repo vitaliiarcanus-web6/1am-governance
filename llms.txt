@@ -12,3 +12,4 @@ CODEX decision model: codex/decision-model.yaml
 Integrity and provenance: manifesto/SHA256.txt, manifesto/provenance.json, codex/SHA256.txt, codex/provenance.json
 
 The canonical TXT files prevail over all summaries and derivatives. Public access does not imply adoption of the CODEX by external AI systems.
+Reuse license: CC BY 4.0 (LICENSE.md). Attribute 1AM Governance — Vitalii Ivanchenkov Ω7Δ, link the license and indicate changes.
