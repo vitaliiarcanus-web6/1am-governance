@@ -1,0 +1,17 @@
+{
+  "record_type": "1AM Governance / CODEX Provenance",
+  "document_title": "1AM CODEX",
+  "document_version": "1.0",
+  "status": "canonical",
+  "canonical_approval_date": "2026-09-23",
+  "canonicalization": "UTF-8; LF line endings; no BOM; exactly one trailing LF",
+  "sha256": "11992d956ada332eda008cec1212e1f02d97cb6fe8b6401854322ec8bcc4e6c3",
+  "source_basis": {
+    "visual_reference": "1AM CODEX: Конституція штучного інтелекту(1).png",
+    "reconstruction": "Normative text expanded from the CODEX visual structure and wording, then explicitly approved as canonical by the project owner."
+  },
+  "approval_evidence": "Explicit approval in the project conversation on 2026-09-23: «Затверджую та підтримую canonical.»",
+  "verification_rule": "Hash governance/codex/1AM_CODEX_v1.0_CANONICAL.txt exactly as stored and compare with sha256.",
+  "authority_rule": "The canonical TXT is normative. Markdown and YAML are derived presentation/implementation artifacts.",
+  "legal_note": "This provenance record documents project approval and integrity. It does not by itself create or guarantee statutory intellectual-property rights."
+}
