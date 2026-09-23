@@ -1,0 +1,5 @@
+1AM Manifesto v1.1
+Genesis Record #000001
+Canonical date: 2026-08-30
+SHA-256: 8b7b8b211a01cb362f18938b2a9ab69d625f3065e2a6e576043c8b0447add97a
+Canonicalization: UTF-8; LF; no BOM; exactly one trailing LF
